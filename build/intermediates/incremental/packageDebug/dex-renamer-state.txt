@@ -1,0 +1,7 @@
+#Fri Mar 17 18:42:02 PKT 2017
+base.0=/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0fbd0900f07ad42aa86af468bece673133fca34
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_10d41b2ed7a7f3627526ea3e13e60d09099a906c/classes.dex
+base.1=/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_10d41b2ed7a7f3627526ea3e13e60d09099a906c
+file.0=/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0fbd0900f07ad42aa86af468bece673133fca34/classes.dex

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/45f91099fa9dc6eac60e1cf50cddd235dd06b4f7/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e0de7411e2ed6e8cc3f8b7198d1b18ce1fececa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/79c1d24738da7ee9936d4f9987449990f813185d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_cbeb1a0e0512e59f30cd6a88330bc452910c7dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/895d7ca74187a4271b07e1d4b1fb4adf9a80e02d/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_88e7c9b86fd62c82ec744aba3b3077768e098df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/895d7ca74187a4271b07e1d4b1fb4adf9a80e02d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_7e854336368d7e8ed76dfba7493cac3fdb21de99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/c83ab7582c213adc27ee344d346bca26c9e50e7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a79bd3f5468a754292665a65fb04c1569173477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/262d76b6c43b887b48171db94771c91015410473/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96b8f22a039c2de4e4d66003a2ec5290e18cdf52/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/61467b514fc5d9cf7163777058b396b318eb119a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_cad27c262c3d6b59f968d1339e623919bdb83df7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/0119f4e3dec8858cd1a5d88a66917bc7298ef1d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7afd4ef9397b3e6cb3d5c0cff422fc4710e17650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/1e7a213dc3a81df0f413ba1557d7f676a290ea19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_748a87336fd2e0ee94e7b57f049a5a2c61ed10b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/79c1d24738da7ee9936d4f9987449990f813185d/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0c346fe37a36cd0592ff7a33cd7e0c3bfa1f2794.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_e60fc87cf28e1fc1bf77fae1a32c3f555b5a134b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/61467b514fc5d9cf7163777058b396b318eb119a/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_af7000643e54c6d565ee157dd529bb3738ccdd3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/45f91099fa9dc6eac60e1cf50cddd235dd06b4f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_76fd47e41e286ce5ea5944aa9becb8835fc7a3b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/5cbd3b70edf44e857edbf048263234ec35c1d337/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20dedcf0f2fcbf60e9e1161839b8d845d275f6bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/848a007f2554bfedb8e9936d697a947eb10310fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_66b8964225e5a453921cc183f985c9abc8a5ab8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_71b1d2488b9c5562e53a4ce851bfceaec952629a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/5c8a5b223566b0033431ceb3f313c7bb61b4dcda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85ae75f85d0f4764c4f5a389dca9e64b8210c024/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/dd025f17397c509489e13d585fc84aff7439a9bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_fa99b16d401f6d78091b7ca5a0a90cd90a941d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/3f3032f8016a62229dfbecd800fe25e4220ff2c3/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5d073a1b25bbcd27200d94f319cde7cef3a6c76a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/5c8a5b223566b0033431ceb3f313c7bb61b4dcda/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2238ca9b0b8c579d51e2b21893b37993aee2487b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/d3834bea562745a3d512c377f5fa93646d3e86f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa4a26bf562e9a42d85deafdb02211e987a201c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/17166b96fddbc02dd7e4b2e76eaedcd3b3170a45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_35816eca377e78419d1f2b69886a15915f20b6fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/367dc5a011a142578b2012115f158a3d4ceb6d7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86d38b2ad80332df4a8942ffc4d774a18b107176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0fbd0900f07ad42aa86af468bece673133fca34/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/3f3032f8016a62229dfbecd800fe25e4220ff2c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_68f8f3b3662f0638f714207ea9079618a9f95211.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/7c9b317a67ad43b1f578a4dc5f49befd3579b2a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f339caabab2425d28f8b46d19124fabac5da78c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/c83ab7582c213adc27ee344d346bca26c9e50e7c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c3a439c435f1db45651f89a5e174c27a27e15280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/ee123772222e7d5463a4fac0a8b7b0a06b557182/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5036a622e1d802a7c9447f42e9797cb1389d422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/2b2a4a51758614c7dcb0abf82c526282e4bc2a2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f131ba56728248839707071a98150caf57ccfd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/junit-4.12_ad78fefc75eb2ecd7e4ef9e459a5e898492d3de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.android/build-cache/04d5960dae75fa7070549c9668005c61c2c5619a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/classes_ba11048c80aac9d0b46714c06d381cfc6b93ed92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skrk/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_921b556c68bb722a313511bcc7dc43c9b337e3e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/367dc5a011a142578b2012115f158a3d4ceb6d7e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1db296d6001eda216530e621dd36ea58f55dbc24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/723476abf64ff4057691054e798a14811da0cde5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4994d6df21bb8caaf7e0f9ea173caf74e5fef24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/d3834bea562745a3d512c377f5fa93646d3e86f2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_caf6a995ea0c61df33d56eac59e7455ca19b3ec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/.android/build-cache/7c9b317a67ad43b1f578a4dc5f49befd3579b2a4/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_46a285ec68c6d639a849e1c9ff1ada84fff8b644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c29a04ecec2b5c9ce753223e9e107f6b3c813540">
+        <dex dex="/Users/skrk/Downloads/Snakes_and_Ladders-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_10d41b2ed7a7f3627526ea3e13e60d09099a906c/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:screenOrientation="portrait"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="Snakes and Ladders"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/player_win"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnDice"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="Roll the Dice"
+        android:textColor="@android:color/holo_green_dark"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/player_win"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/replay"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:fontFamily="casual"
+        android:text="Yay! You Win!"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <ImageButton
+        android:id="@+id/replay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:cropToPadding="false"
+        android:visibility="invisible"
+        app:srcCompat="@android:drawable/ic_media_play"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="" />
+
+    <TextView
+        android:id="@+id/level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Level 1"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        android:layout_above="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
