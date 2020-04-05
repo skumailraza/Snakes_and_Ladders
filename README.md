@@ -2,11 +2,7 @@
 Traditional snakes and Ladders board game for Android
 Table of Contents
 
-
-Snakes & Ladders Android Game
-
-Link to Github public repo: 
-https://github.com/skumailraza/Snakes_and_Ladders
+## Snakes & Ladders Android Game
 
 
 ## Introduction
