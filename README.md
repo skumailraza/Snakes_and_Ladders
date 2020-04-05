@@ -13,17 +13,17 @@ The Snakes & Ladders is an automated version of the Android game based on the tr
 ## Approach
 
 The game is a variant of the original game so it has the following set of rules:
--- There are 2 players in this game and board size is of 10x10.
--- Possible outcomes by throwing a dice are 1,2,3,4,5,6.
--- If output is 6 then current the player will get a chance again to roll the dice.
--- If outcome of the Dice is 1,2,3,4,5,6 and player positioned on mouth of snake then his current position will change to tail of snake.
--- If outcome of the Dice is 1,2,3,4,5,6 and player positioned at below of ladder then His current position will change to topmost position.
--- If player's current position+ roll >100 then the other player will get a chance to throw the dice.
--- Any player reaching 100 earlier than the other player will be the winner and the game will end.
+- There are 2 players in this game and board size is of 10x10.
+- Possible outcomes by throwing a dice are 1,2,3,4,5,6.
+- If output is 6 then current the player will get a chance again to roll the dice.
+- If outcome of the Dice is 1,2,3,4,5,6 and player positioned on mouth of snake then his current position will change to tail of snake.
+- If outcome of the Dice is 1,2,3,4,5,6 and player positioned at below of ladder then His current position will change to topmost position.
+- If player's current position+ roll >100 then the other player will get a chance to throw the dice.
+- Any player reaching 100 earlier than the other player will be the winner and the game will end.
 
 Some additional rules embedded into the game are:
--- If either of the two players end up on the same position at the same time, the latter one will occupy that position and former has to retreat 3 positions.
--- Either of the player can have a max of 1 retake on a draw of 6. If another six occurs, the max it will move is 12.
+- If either of the two players end up on the same position at the same time, the latter one will occupy that position and former has to retreat 3 positions.
+- Either of the player can have a max of 1 retake on a draw of 6. If another six occurs, the max it will move is 12.
 
 Since the game is implemented in Java, it uses the Java Canvas library for the rendering of the board. The items on the board are set using custom mathematical functions to position the screen objects on the board. It uses android studio’s built in activity designer to design the UI.
 
